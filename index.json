@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0.0",
   "sourceName": "Dark Jak Enhanced Source",
-  "lastUpdated": "2026-10-02T22:56:29Z",
+  "lastUpdated": "2026-10-04T17:50:22Z",
   "mods": {
     "dark-jak-enhanced": {
       "displayName": "Dark Jak Enhanced",
-      "description": "Dark Jak Enhanced mod adds a full 3rd evolutionary stage to Dark Jak in Jak 2: the Mega-Mega Dark Jak (Titan ), alongside improvements, restored acrobatics for Level 1 Dark Jak, instantaneous Dark Bomb activation, and enhanced collision resilience.",
+      "description": "The **Dark Jak Enhanced** mod adds a full 3rd evolutionary stage to Dark Jak in Jak 2: the **Mega-Mega Dark Jak (Titan / Colossus)**, alongside critical quality-of-life improvements, restored acrobatics for Level 1 Dark Jak, instantaneous Dark Bomb activation, and enhanced collision resilience.",
       "authors": [
         "whozghiar"
       ],
